@@ -6,19 +6,19 @@ A comprehensive and interactive Power BI dashboard designed to analyze, visualiz
 
 ## 📋 Table of Contents
 
-1. [Overview](#overview)
-2. [Project Objectives](#project-objectives)
-3. [Dataset Information](#dataset-information)
-4. [Project Structure](#project-structure)
-5. [Dashboard Features](#dashboard-features)
-6. [Key Visualizations](#key-visualizations)
-7. [How to Use](#how-to-use)
-8. [System Requirements](#system-requirements)
-9. [Installation & Setup](#installation--setup)
-10. [Data Dictionary](#data-dictionary)
-11. [Analysis Insights](#analysis-insights)
-12. [Troubleshooting](#troubleshooting)
-13. [Author & Contact](#author--contact)
+1. [Overview](#-overview)
+2. [Project Objectives](#-project-objectives)
+3. [Dataset Information](#-dataset-information)
+4. [Project Structure](#-project-structure)
+5. [Dashboard Features](#-dashboard-features)
+6. [Key Visualizations](#-key-visualizations)
+7. [How to Use](#-how-to-use)
+8. [System Requirements](#-system-requirements)
+9. [Installation & Setup](#-installation--setup)
+10. [Data Dictionary](#-data-dictionary)
+11. [Analysis Insights](#-analysis-insights)
+12. [Troubleshooting](#-troubleshooting)
+13. [Author & Contact](#-author--contact)
 
 ---
 
